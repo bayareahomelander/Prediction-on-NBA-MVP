@@ -1,7 +1,7 @@
 # Prediction-on-NBA-MVP
 
 
-This project uses Python to scrape data from website www.basketball-reference.com to feed machine learning model for the purpose of predicting the next MVP (Most Valuable Player) of the NBA (National Basketball Association) by determining the more significant factors when it comes to MVP voting, based on three categories:
+This project uses Python to scrape data from website www.basketball-reference.com to feed machine learning model for the purpose of predicting the MVP (Most Valuable Player) of the NBA (National Basketball Association) by determining the more significant factors when it comes to MVP voting, based on three categories:
 
    - MVP votings from 1991 to 2022;
    - Team records each year (Division standings);
