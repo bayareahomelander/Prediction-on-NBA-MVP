@@ -16,4 +16,4 @@ The whole process is separated into three parts.
 3. Machine Learning Model: In process
 
 
-This README file is an overview, specific comments can be found in the .ipynb files under this repo including explanations of NBA terminologies and abbreviations, personal understanding of machine learning algorithms and error metrics.
+This README file is an overview, specific comments can be found in the .ipynb files under this repo including explanations of NBA terminologies and abbreviations, explanation of machine learning algorithms and error metrics.
