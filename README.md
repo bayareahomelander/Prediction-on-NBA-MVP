@@ -17,3 +17,7 @@ The whole process is separated into three parts.
 
 
 This README file is an overview, specific comments can be found in the .ipynb files under this repo including explanations of NBA terminologies and abbreviations, explanation of machine learning algorithms and error metrics.
+
+
+Reference:
+https://github.com/dataquestio/project-walkthroughs/tree/master/mvp
