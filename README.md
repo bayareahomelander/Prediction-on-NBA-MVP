@@ -13,7 +13,7 @@ The whole process is separated into three parts.
 
 2. Data Cleaning: Clear NaN values, merge datasets and duplicate rows, extract helpful stats using the Pandas library. In addition, this part of the project includes data exploration/visualization with Matplotlib.
 
-3. Machine Learning Model: In process
+3. Machine Learning Model: Train and deploy machine learning model to predict MVP in each year. Tran/test split, Ridge Regression model for preparation; use error metrics and backtest for performance evaluation; RandomForest for prediction.
 
 
 This README file is an overview, specific comments can be found in the .ipynb files under this repo including explanations of NBA terminologies and abbreviations, explanation of machine learning algorithms and error metrics.
